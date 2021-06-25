@@ -1,0 +1,58 @@
+import {Dimensions,StyleSheet } from "react-native";
+
+export default StyleSheet.create({
+    container:{
+        flex:1,
+        flexDirection:"row",
+        margin:10,
+    },
+    imgBox:{
+        flex:1,
+    },
+    img:{
+        width:100,
+        height:100,
+        margin:10,
+        borderRadius:50
+    },
+    cardBody:{
+        flex:2,
+        padding:25
+    },
+    title:{
+        fontSize:27,
+        fontWeight:"bold",
+    },
+    content_container:{
+        flex:1,
+        flexDirection:"row",
+        alignItems:"center"
+    },
+    info:{
+        flex:2
+    },
+    artist:{
+        fontSize:17,
+    },
+    year:{
+        marginLeft:10,
+        color:"grey",
+        fontWeight:"bold",
+        fontSize:12,
+
+    },
+    soldout:{
+        flex:1,
+        borderWidth:1,
+        padding:2,
+        borderRadius:5,
+        borderColor:"red",
+        justifyContent:"center",
+        marginLeft:10
+    },
+    soldout_text:{
+        color:"red",
+        textAlign:"center",
+        fontWeight:"bold"
+    }
+})

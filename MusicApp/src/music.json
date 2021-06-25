@@ -1,0 +1,101 @@
+[
+    {
+        "id":0,
+        "title":"New Person, Same Old Mistakes",
+        "artist":"Tame Impala",
+        "album":"Currents",
+        "year":2020,
+        "isSoldOut":false,
+        "imageUrl":"https://i.ytimg.com/vi/_9bw_VtMUGA/maxresdefault.jpg"
+    },
+    {
+        "id":1,
+        "title":"Bunker",
+        "artist":"Balthazar",
+        "album":"Thin Walls",
+        "year":2015,
+        "isSoldOut":true,
+        "imageUrl":"https://yt3.ggpht.com/ytc/AKedOLRqNx-LSRju5jwRtfeef8-kH0POG-mKqxGR7wYlDA=s88-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+        "id":2,
+        "title":"When The Sun Goes Down",
+        "artist":"Arctic Monkeys",
+        "album":"Whatever People Say I Am, That's What I'm ",
+        "year":2006,
+        "isSoldOut":false,
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/tr/0/04/Arctic_Monkeys_-_AM.png"
+    },
+    {
+        "id":3,
+        "title":"505",
+        "artist":"Arctic Monkeys",
+        "album":"Favourite Worst Nightmare",
+        "year":2007,
+        "isSoldOut":false,
+        "imageUrl":"https://www.sabanciuniv.edu/sites/default/files/blog/arcticc/arctic-monkey-album.png"
+    },
+    {
+        "id":4,
+        "title":"Street Spirit",
+        "artist":"Radiohead",
+        "album":"Fade Out",
+        "year":1,
+        "isSoldOut":true,
+        "imageUrl":"https://yt3.ggpht.com/ytc/AAUvwnjheQ_52iOyoeS1wXVZKlO1BZBPL_kUUjJH9iOtNQ=s88-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+        "id":5,
+        "title":"Trouble",
+        "artist":"Coldplay",
+        "album":"Parachutes",
+        "year":2000,
+        "isSoldOut":true,
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/en/5/57/Coldplayparachutesalbumcover.jpg"
+    },
+    {
+        "id":6,
+        "title":"NEW MAGIC WAND ",
+        "artist":"Tyler, The Creator",
+        "album":"Igor",
+        "year":2019,
+        "isSoldOut":false,
+        "imageUrl":"https://137401-397761-2-raikfcquaxqncofqfm.stackpathdns.com/3723-thickbox_default_2x/tyler-the-creator-igor-plak.jpg"
+    },
+    {
+        "id":7,
+        "title":"Day 'N' Nite",
+        "artist":"Kid Cudi",
+        "album":"Day 'N' Nite",
+        "year":2008,
+        "isSoldOut":true,
+        "imageUrl":"https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9"
+    },
+    {
+        "id":8,
+        "title":"Born To Die",
+        "artist":"Lana Del Rey",
+        "album":"Born To Die",
+        "year":2011,
+        "isSoldOut":true,
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/tr/3/35/Lana-del-rey-born-to-die.jpg"
+    },
+    {
+        "id":9,
+        "title":"Non Believer",
+        "artist":"London Grammar",
+        "album":"Truth Is a Beautiful Thing",
+        "year":2018,
+        "isSoldOut":false,
+        "imageUrl":"https://yt3.ggpht.com/ytc/AAUvwnj9h1pbuxEKkvyO3Jr-kMMBtOb184TDMoQhVMcARA=s88-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+        "id":10,
+        "title":"The Silence",
+        "artist":"Manchester Orchestra",
+        "album":"Single",
+        "year":2018,
+        "isSoldOut":false,
+        "imageUrl":"https://yt3.ggpht.com/ytc/AAUvwngbKeR4Tcp7NJao8znf0D0XWrmFRppoSiXi8v6T6A=s88-c-k-c0x00ffffff-no-rj-mo"
+    }
+]
